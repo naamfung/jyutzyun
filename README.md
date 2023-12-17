@@ -66,8 +66,8 @@
 作者电邮：jorsion在hotmail点com
 
 常务微信：
-![联系](https://github.com/naamfung/Jyutreplacer/blob/main/%E8%81%94%E7%B3%BB.jpg)
+![联系](https://github.com/naamfung/jyutzyun/blob/main/%E8%81%94%E7%B3%BB.jpg)
 
 
 # 捐赠支持
-![支持](https://github.com/naamfung/Jyutreplacer/blob/main/%E6%94%B6%E6%AC%BE.jpg)
+![支持](https://github.com/naamfung/jyutzyun/blob/main/%E6%94%B6%E6%AC%BE.jpg)
