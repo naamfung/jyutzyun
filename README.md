@@ -1,6 +1,8 @@
 # 南风转换 / Jyut Zyun
 网文南风化替换工具，可将TXT文本格式的北调版网络小说转换为南腔风格，以提升南人的阅读体验！
 
+![免费版本](https://github.com/naamfung/jyutzyun/blob/main/main.jpg)
+
 
 # 项目缘起
 
